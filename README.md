@@ -1,15 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Xun Wei! 👋
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xunweiyee&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=default" alt="Xun Wei's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunweiyee&layout=compact" />
+</a>
 
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=xunweiyee&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunweiyee&layout=compact" />
--->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xunweiyee&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=default" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunweiyee&layout=compact" height="150"/>
 </p>
-
+-->
 
 
 
