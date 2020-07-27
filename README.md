@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Xun Wei's github stats](https://github-readme-stats.vercel.app/api?username=xunweiyee&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunweiyee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xunweiyee&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunweiyee&layout=compact" />
+</p>
 
 <!--
 **xunweiyee/xunweiyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
