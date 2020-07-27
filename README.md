@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=xunweiyee&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunweiyee&layout=compact" />
+-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xunweiyee&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunweiyee&layout=compact" />
+</p>
 
 
 
