@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Deep Learning courses**
 
-- 👨‍💻 All of my projects are available at [xunweiyee.github.io](xunweiyee.github.io)
+- 👨‍💻 All of my projects are available at [xunweiyee.github.io](https://xunweiyee.github.io/)
 
 - 📫 How to reach me **yeexunwei@gmail.com**
 
