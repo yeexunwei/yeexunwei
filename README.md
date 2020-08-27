@@ -11,9 +11,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xunweiyee&show_icons=true" alt="xunweiyee" /></p>
 
+<!--
 <p align="center">
 <a href="https://linkedin.com/in/xunweiyee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xunweiyee" height="30" width="30" /></a>
 </p>
+-->
 
 <!--START_SECTION:waka-->
 ```text
