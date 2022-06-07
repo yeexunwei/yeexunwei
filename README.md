@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xunweiyee&label=Profile%20views&color=0e75b6&style=flat" alt="xunweiyee" /> </p>
 
-- 👨‍💻 All of my projects are available at [xunweiyee.github.io](xunweiyee.github.io)
+- 👨‍💻 All of my projects are available at [yeexunwei.github.io](https://yeexunwei.github.io/portfolio/)
 
 - 📫 How to reach me **yeexunwei@gmail.com**
-
-- 📊 Take a look at my visual profile from GitHub at [sourcerer.io](https://sourcerer.io/xunweiyee)
 
 
 <h3 align="left">Connect with me:</h3>
